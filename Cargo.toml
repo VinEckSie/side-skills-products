@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "docker_api",
+]
+
+resolver = "3"

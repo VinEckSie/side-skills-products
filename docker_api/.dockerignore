@@ -1,0 +1,6 @@
+../rust_api_docker/target
+.git
+.gitignore
+Dockerfile*
+*.log
+../.env
