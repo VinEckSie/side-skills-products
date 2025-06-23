@@ -1,7 +1,7 @@
 [workspace]
 members = [
     "docker_api",
-    "http-server"
+    "codecrafters-http-server-rust",
 ]
 
 resolver = "3"

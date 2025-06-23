@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/docker_api/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/http-server/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/codecrafters-http-server-rust/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
