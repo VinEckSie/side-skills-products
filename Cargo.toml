@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "docker_api",
+    "http-server"
 ]
 
 resolver = "3"
